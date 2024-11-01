@@ -1,1 +1,0 @@
-https://k2-st-app.streamlit.app/
